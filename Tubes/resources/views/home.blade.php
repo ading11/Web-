@@ -46,7 +46,6 @@
               <p>RESEP RENDANG</p>
             </div>
             <div class="col-4">
-              <a href="{{ route('resepikanbakar') }}"> <!-- Ganti 'resep.ikan-bakar' dengan nama route yang sesuai -->
               <img src="gambar/Home/ikan bakar.png" class="img-fluid" alt="">
               <p>RESEP IKAN BAKAR</p>
               </a>
