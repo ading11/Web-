@@ -1,0 +1,20 @@
+* {
+    color: #04364A;
+    font-family: 'Sen', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 0.32px;
+}
+
+body {
+    background-color: #04364A;
+  }
+
+.dropdown:hover>.dropdown-menu {
+    display: block;
+}
+
+.dropdown>.dropdown-toggle:active {
+    pointer-events: none;
+}

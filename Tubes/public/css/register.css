@@ -1,0 +1,25 @@
+* {
+    color: #04364A;
+    font-family: 'Sen', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 0.32px;
+}
+
+body {
+    background: #04364A;
+  }
+  
+  .card-img-left {
+    width: 45%;
+    /* Link to your background image using in the property below! */
+    background: scroll center url('https://w0.peakpx.com/wallpaper/271/323/HD-wallpaper-sandwich-food-lover-food-sandwich.jpg');
+    background-size: cover;
+  }
+  
+  .btn-login {
+    font-size: 0.9rem;
+    letter-spacing: 0.05rem;
+    padding: 0.75rem 1rem;
+  }
