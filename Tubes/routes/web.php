@@ -23,6 +23,10 @@ Route::get('/makananringan', function () {
     return view('makananringan');
 });
 
+Route::get('/makananberat', function () {
+    return view('makananberat');
+});
+
 Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
